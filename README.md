@@ -17,5 +17,7 @@ npm run deploy
 What this does is get the code from the source code branch, checks out the beta branch,
 installs the software needed to deploy the code, and then deploys the code to this repo's gh-page.
 
+When the initial set up is down, the only commands that need to be run would be `git pull upstream` and `npm run deploy`
+
 ## Roadmap
 Bash scripts could be made for ease of access. Ideally the script to deploy to this would be from the source code repo.
