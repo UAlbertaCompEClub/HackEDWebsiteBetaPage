@@ -11,7 +11,7 @@ Run the following in the terminal:
 git remote add upstream https://github.com/UAlbertaCompEClub/HackEDWebsite.git  
 git pull upstream  
 git checkout HackEd_Beta  
-npm run install  
+npm install  
 npm run deploy
 
 What this does is get the code from the source code branch, checks out the beta branch,
