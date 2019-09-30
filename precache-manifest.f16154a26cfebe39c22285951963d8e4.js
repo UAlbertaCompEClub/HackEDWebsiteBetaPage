@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fa237a0a4ece9afde60e8352f108e85",
+    "revision": "98018804b2f97c21b0be0db67813f3a1",
     "url": "/HackEDWebsiteBetaPage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HackEDWebsiteBetaPage/static/css/2.0ec30c4e.chunk.css"
   },
   {
-    "revision": "6e99087206ab75e3a7e4",
+    "revision": "d5a94be59b515c3d8b1b",
     "url": "/HackEDWebsiteBetaPage/static/css/main.a850100b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HackEDWebsiteBetaPage/static/js/2.1b8d238c.chunk.js"
   },
   {
-    "revision": "6e99087206ab75e3a7e4",
-    "url": "/HackEDWebsiteBetaPage/static/js/main.801d3ead.chunk.js"
+    "revision": "d5a94be59b515c3d8b1b",
+    "url": "/HackEDWebsiteBetaPage/static/js/main.e5caf79d.chunk.js"
   },
   {
     "revision": "36fd3fb42d7ed1a69861",
